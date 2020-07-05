@@ -1,0 +1,7 @@
+C:\Users\lei\source\repos\KeyEncryption\KeyEncryption\bin\Debug\KeyEncryption.exe.config
+C:\Users\lei\source\repos\KeyEncryption\KeyEncryption\bin\Debug\KeyEncryption.exe
+C:\Users\lei\source\repos\KeyEncryption\KeyEncryption\bin\Debug\KeyEncryption.pdb
+C:\Users\lei\source\repos\KeyEncryption\KeyEncryption\obj\Debug\KeyEncryption.csprojAssemblyReference.cache
+C:\Users\lei\source\repos\KeyEncryption\KeyEncryption\obj\Debug\KeyEncryption.csproj.CoreCompileInputs.cache
+C:\Users\lei\source\repos\KeyEncryption\KeyEncryption\obj\Debug\KeyEncryption.exe
+C:\Users\lei\source\repos\KeyEncryption\KeyEncryption\obj\Debug\KeyEncryption.pdb
