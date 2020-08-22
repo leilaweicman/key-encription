@@ -9,7 +9,7 @@
 
 ### Ejemplo Body Request
 
- - No recibe Body Request
+No recibe Body Request
 
 ### Ejemplo Body Response
 ```
@@ -17,7 +17,9 @@
 	"id": 1,
 	"title": "Evaluación Full Stack Developer",
 	"description": "En esta evaluación buscamos evaluar tu seniority",
-	"questions": [{
+	"questions": 
+	[
+	  	{
 			"id": 1,
 			"questionText": "Verdadero o Falso: HTML es un lenguaje de programación",
 			"correctAnswer": "Falso"
@@ -62,7 +64,9 @@ En caso de ocurrir un error en el servidor
 ### Ejemplo Body Request
 ```
 {
-	"answers": [{
+	"answers": 
+	[
+		{
 			"questionId": 1,
 			"enteredAnswer": "False"
 		},
